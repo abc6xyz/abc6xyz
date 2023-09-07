@@ -1,4 +1,4 @@
-## Languages and Tools:
+## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,materialui,html,css,sass,bootstrap,py,django,postgres,postman,vscode,git,github,githubactions,webpack,jest,heroku)](https://skillicons.dev)
 
