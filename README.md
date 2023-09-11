@@ -1,6 +1,6 @@
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,materialui,html,css,sass,bootstrap,py,django,postgres,postman,vscode,git,github,githubactions,webpack,jest,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,materialui,html,css,sass,bootstrap,py,django,postgres,postman,vscode,git,github,githubactions,webpack,jest,heroku)](https://skillicons.dev)
 
 <p align="top">
   <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=005FED" />
