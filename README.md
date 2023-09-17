@@ -1,6 +1,6 @@
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,js,ts,react,redux,nextjs,materialui,astro,gatsby,vite,vue,nuxtjs,graphql,babel,webpack,nodejs,nestjs,express,html,jquery,css,bootstrap,tailwind,figma,php,laravel,symfony,mongodb,mysql,postgres,sqlite,prisma,webflow,wordpress,discord,bots,solidity,solidjs,ruby,rails,dart,flutter,linux,c,c#,cpp,dotnet,cmake,qt,electron,java,maven,selenium,gradle,go,lua,rust,aws,dynamodb,git,github,githubactions,gitlab,netlify,heroku,firebase,supabase,nginx,powershell,bash,eclipse,vscode,codepen,replit,postman,stackoverflow,saas,cloudflare,docker,kubernetes,matlab,pytorch,raspberrypi,regex&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,js,ts,react,redux,nextjs,materialui,astro,gatsby,vite,vue,nuxtjs,graphql,babel,webpack,nodejs,nestjs,express,html,jquery,css,bootstrap,tailwind,figma,php,laravel,symfony,mongodb,mysql,postgres,sqlite,prisma,webflow,wordpress,discord,bots,solidity,solidjs,ruby,rails,dart,flutter,linux,c,cs,cpp,dotnet,cmake,qt,electron,java,maven,selenium,gradle,go,lua,rust,aws,dynamodb,git,github,githubactions,gitlab,netlify,heroku,firebase,supabase,nginx,powershell,bash,eclipse,vscode,codepen,replit,postman,stackoverflow,saas,cloudflare,docker,kubernetes,matlab,pytorch,raspberrypi,regex&perline=10)](https://skillicons.dev)
 
 <p align="top">
   <img src="https://img.shields.io/github/stars/BobsProgrammingAcademy?style=for-the-badge&logo=github&color=005FED" />
